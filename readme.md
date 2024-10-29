@@ -27,7 +27,7 @@ Here’s the deal: we’re asking you to build a simple frontend and backend tha
 3. **Tech Stack**:
    - **Frontend**: React with TypeScript, React Router, and a CSS-in-JS library of your choice - styled-components or @emotion (p.s. use more modern css e.g. `Flexbox`).
    - **Backend**: Express, TypeScript.
-   - Feel free to use any other libraries or tools you think would be beneficial for this task on both the front and backend. We trust your judgment! 🤝
+   - Feel free to use any other libraries or tools you think would be beneficial for this task on both the front and backend. We trust your judgement!
 
 ### What We’re Looking For
 
