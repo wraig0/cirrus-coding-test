@@ -37,7 +37,7 @@ Here’s the deal: we’re asking you to build a simple frontend and backend tha
 
 ### The Little Extras
 
-- We love a good README, if you've added anything else; instructions on how to run the project would be awesome.
+- If you've added anything we'll need on our machines to run your project, instructions on how to add/run it would be awesome.
 - If you have any queries before you get stuck in, feel free to email me at jordan.paisley@virginmediao2.co.uk
 
 ### Getting Started
