@@ -1,3 +1,7 @@
+## How to run the project
+
+- start the backend service, using `npm start` from the services\backend directory
+- start the frontend service, using `npm dev` from the services\frontend directory for the dev build, or `npm run build` and `npm run preview` for a production build.  
 
 ## Welcome to the Virgin Media O2 Coding Challenge 🎉
 
