@@ -52,7 +52,6 @@ export function ProfileCard(props: ProfileCardProps) {
             position: "relative",
             [mediaQuery1200]: {
               top: "0px",
-              textAlign: "left",
               flexDirection: "row",
             },
           }}
@@ -72,6 +71,9 @@ export function ProfileCard(props: ProfileCardProps) {
               flexDirection: "column",
               gap: "4px",
               alignItems: "center",
+              [mediaQuery1200]: {
+                alignItems: "flex-start",
+              },
             }}
           >
             <div
@@ -109,6 +111,7 @@ export function ProfileCard(props: ProfileCardProps) {
             {props.hasSmartMeter ?? 1 ? (
               <div
                 css={{
+                  marginTop: "8px",
                   background: smartMeterPill,
                   display: "flex",
                   borderRadius: "16px",
